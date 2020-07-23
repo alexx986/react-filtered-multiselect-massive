@@ -1,0 +1,26 @@
+{
+  "name": "react-filtered-multiselect-massive",
+  "version": "0.5.1",
+  "description": "clone of the reactive-filtered-multi-select component with modified styles",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josmassive/react-filtered-multiselect-massive.git"
+  },
+  "keywords": [
+    "react",
+    "multiselect"
+  ],
+  "author": "jose huerta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josmassive/react-filtered-multiselect-massive/issues"
+  },
+  "homepage": "https://github.com/josmassive/react-filtered-multiselect-massive#readme"
+}
